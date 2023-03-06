@@ -12,3 +12,9 @@ You can always contact me via email: <d.benders@tudelft.nl>. Otherwise, you can 
 - [Google Scholar](https://scholar.google.com/citations?user=E4W9DvAAAAAJ&hl=en&inst=6173373803492361994&oi=ao)
 - [Research gate](https://www.researchgate.net/profile/Dennis-Benders)
 - [ORCID](https://orcid.org/0000-0002-6648-7128)
+
+Some GitHub organizations that I participate in:
+- [cor-drone-dev](https://github.com/cor-drone-dev)
+- [R2CLab](https://github.com/R2CLab)
+- [tud-amr](https://github.com/tud-amr)
+- [tud-cor](https://github.com/tud-cor)
